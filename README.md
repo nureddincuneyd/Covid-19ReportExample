@@ -1,10 +1,12 @@
 # Covid-19ReportExample
 
-index.php Content Source:
+Used Source:
 
 get json link : https://corona.lmao.ninja/countries?sort=country
 
-Used https://github.com/NovelCOVID/API 
+Admin Panel Link : https://github.com/colorlibhq/AdminLTE
+
+Api Link : https://github.com/NovelCOVID/API 
 
 
 Thank you

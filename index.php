@@ -160,7 +160,8 @@ include "dataEx.php";
                         stepSize: 300000
                       }
                     }]
-                  }
+                  },
+                  color : 'rgba(255, 0, 0, 0.1)'
                 }
               });
             </script>

@@ -7,7 +7,7 @@ Used Source:
 
 Grapics Lib : https://www.chartjs.org/
 
-get json link : https://corona.lmao.ninja/countries?sort=country
+get json link : https://corona.lmao.ninja/v2/countries?sort=country
 
 Admin Panel Link : https://github.com/colorlibhq/AdminLTE
 

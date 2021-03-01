@@ -1,6 +1,6 @@
 # Covid-19ReportExample
 
-System Link : http://ec2-3-15-204-175.us-east-2.compute.amazonaws.com/
+System Link : 
 
 
 Used Source:
